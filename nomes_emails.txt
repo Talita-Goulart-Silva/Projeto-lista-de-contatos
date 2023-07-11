@@ -1,0 +1,102 @@
+Brennan George
+brennan.george@example.com
+
+Adam Weaver
+adam.weaver@example.com
+
+Troy Butler
+troy.butler@example.com
+
+Isobel Lewis
+isobel.lewis@example.com
+
+Lisa Garcia
+lisa.garcia@example.com
+
+Carolyn Silva
+carolyn.silva@example.com
+
+
+            <li class="list-item">
+                <div class="list-item-imagem">
+                    <img src="imagens/2.jpg" alt="Adam Weaver">
+                    <div class="list-item-content">
+                        <p class="list-item-name">Adam Weaver</p>
+                        <p class="list-item-email">adam.weaver@example.com</p>
+                    </div>
+
+                    <div class="list-item-action">
+                        <a href="#"> <img src="imagens/delete.png" alt="delete"></a>
+                        <a href="#"><img src="imagens/edit.png" alt="edit"></a>
+                    </div>
+
+                </div>
+            </li>
+     
+
+       
+            <li class="list-item">
+                <div class="list-item-imagem">
+                    <img src="imagens/3.jpg" alt="Troy Butler">
+                    <div class="list-item-content">
+                        <p class="list-item-name">Troy Butler</p>
+                        <p class="list-item-email">troy.butler@example.com</p>
+                    </div>
+
+                    <div class="list-item-action">
+                        <a href="#"> <img src="imagens/delete.png" alt="delete"></a>
+                        <a href="#"><img src="imagens/edit.png" alt="edit"></a>
+                    </div>
+
+                </div>
+            </li>
+       
+
+       
+            <li class="list-item">
+                <div class="list-item-imagem">
+                    <img src="imagens/4.jpg" alt="Isobel Lewis">
+                    <div class="list-item-content">
+                        <p class="list-item-name">Isobel Lewis</p>
+                        <p class="list-item-email">isobel.lewis@example.com</p>
+                    </div>
+
+                    <div class="list-item-action">
+                        <a href="#"> <img src="imagens/delete.png" alt="delete"></a>
+                        <a href="#"><img src="imagens/edit.png" alt="edit"></a>
+                    </div>
+
+                </div>
+            </li>
+      
+            <li class="list-item">
+                <div class="list-item-imagem">
+                    <img src="imagens/5.jpg" alt="Brennan George">
+                    <div class="list-item-content">
+                        <p class="list-item-name">Lisa Garcia</p>
+                        <p class="list-item-email">lisa.garcia@example.com</p>
+                    </div>
+
+                    <div class="list-item-action">
+                        <a href="#"> <img src="imagens/delete.png" alt="delete"></a>
+                        <a href="#"><img src="imagens/edit.png" alt="edit"></a>
+                    </div>
+
+                </div>
+            </li>
+       
+            <li class="list-item">
+                <div class="list-item-imagem">
+                    <img src="imagens/6.jpg" alt="Carolyn Silva">
+                    <div class="list-item-content">
+                        <p class="list-item-name">Carolyn Silva</p>
+                        <p class="list-item-email">carolyn.silva@example.com</p>
+                    </div>
+
+                    <div class="list-item-action">
+                        <a href="#"> <img src="imagens/delete.png" alt="delete"></a>
+                        <a href="#"><img src="imagens/edit.png" alt="edit"></a>
+                    </div>
+
+                </div>
+            </li>
